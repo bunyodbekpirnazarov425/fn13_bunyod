@@ -1,1 +1,4 @@
- mnm,n,n,n,
+class Person:
+    
+    def index(self):
+        print("salom")
